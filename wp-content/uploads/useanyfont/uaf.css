@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'mazzard';
+					src: url('/wp-content/uploads/useanyfont/7854Mazzard.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/7854Mazzard.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.mazzard{font-family: 'mazzard' !important;}
+
+		
